@@ -2,6 +2,9 @@ package usability
 
 fun main() {
     val priority = Priority.LOW
+    println(priority)
+    println(priority.name)
+    println(priority.color)
     println(priority.number)
 //    println(priority)
 //    println(priority.color)
